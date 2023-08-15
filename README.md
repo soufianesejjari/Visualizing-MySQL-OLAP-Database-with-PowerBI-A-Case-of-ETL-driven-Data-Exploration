@@ -1,4 +1,4 @@
-# datawarehouse_projet
+# Visualizing MySQL OLAP Database with PowerBI: A Case of ETL-driven Data Exploration
 Ce projet a pour objectif de visualiser les données stockées dans une base de données OLAP MySQL à l'aide de PowerBI. Les données ont été préalablement extraites, transformées et chargées (ETL) à partir d'une base de données OLTP en utilisant l'outil Talend.
 Data Visualization with Power BI and ETL with Talend
 #Overview
